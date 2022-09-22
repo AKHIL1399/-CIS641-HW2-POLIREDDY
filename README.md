@@ -31,4 +31,4 @@ Establish/manage remote access for users through RDP connections
 Management of escalation and support mailbox
 
 
-![This is an image](https://www.splashlearn.com/blog/wp-content/uploads/2022/04/Homework-summer-school-memes-1.jpg
+![This is an image](https://www.splashlearn.com/blog/wp-content/uploads/2022/04/Homework-summer-school-memes-1.jpg)
